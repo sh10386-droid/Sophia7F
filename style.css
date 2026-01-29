@@ -38,6 +38,8 @@ h1 {
   animation-play-state: paused;
 }
 
-
+p {
+    text-align: center; /* Puts the heading in the middle */
+}
     
     
